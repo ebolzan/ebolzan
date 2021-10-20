@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ebolzan&color=red)
 
-<h3> :man: &nbsp;About</h3>
+<h3> :man: &nbsp;About me</h3>
 
 - 🤔 &nbsp; I am Evandro Bolzan, graduated in Information System at UFSM.
 - 💼 &nbsp; Nowadays I'm working with IT infrastructure. Five years ago I worked as a programmer and I am looking to get back to software development.
@@ -22,6 +22,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 **DevOps**
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
